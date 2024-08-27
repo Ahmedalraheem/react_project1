@@ -1,0 +1,10 @@
+.brand {
+  font-size: 70px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+  font-family: arial, serif;
+  font-weight: bold;
+}
